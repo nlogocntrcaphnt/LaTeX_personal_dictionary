@@ -14,5 +14,6 @@ cd LaTeX_personal_dictionary/
 sudo cp -r dic /usr/share/stardict/
 ```
 
+![Page preview](./preview.png?raw=true "Latest screenshot of the page") 
 
 
